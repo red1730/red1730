@@ -1,13 +1,12 @@
-### Hi there 👋
+### Hello World! 👋
+I´m Raúl Edelmi Ducret full Stack Developer
 
-<!--
-**red1730/red1730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+FullStack Developer | JavaScript | React - Redux | Express - Node - SQL
 
-Here are some ideas to get you started:
-
+-  I´m from Argentina, Buenos Aires
 - 🔭 I’m currently working on my IP at Henry 
 - 🌱 I like and am passionate about programming, I have worked on various projects in which I have poured my knowledge (using different frameworks and libraries
 
-- 📫 How to reach me: ...
+- 📫Constact me: +54 011-156620-6694
 
--->
+
