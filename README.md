@@ -1,7 +1,7 @@
 ### Hello World! 👋
-#### I´m Raúl Edelmi Ducret full Stack Developer
+### I´m Raúl Edelmi Ducret full Stack Developer
 
-#FullStack Developer | JavaScript | React - Redux | Express - Node - SQL
+FullStack Developer | JavaScript | React - Redux | Express - Node - SQL
 
 -  I´m from Argentina, Buenos Aires
 -  I’m currently working on my IP at Henry 
