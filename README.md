@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on my GP on Henry  
   
 
-- 🌱 I’m learning Typescript  
+- 🌱 I’m learning Typescript and React Native 
   
 
 - ❓ Ask me about anything related to JS, React and related technologies  
