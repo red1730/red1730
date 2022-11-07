@@ -79,22 +79,4 @@
 <br/>  
 
 
-## Recent Listening  
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=11150977696&cover_image=true&theme=compact&show_offline=false" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=red1730&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
 
