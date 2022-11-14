@@ -6,7 +6,7 @@
 ## <div align="center">I'm Raúl, a Full-Stack Developer 🚀</div>  
   
 
-- 🔭 I’m currently working on my GP on Henry  
+- 🔭 I’m currently working on my learning.
   
 
 - 🌱 I’m learning Typescript and React Native 
