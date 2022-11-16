@@ -6,10 +6,10 @@
 ## <div align="center">I'm Raúl, a Full-Stack Developer 🚀</div>  
   
 
-- 🔭 I’m currently working on my learning.
+- 🔭 I’m currently working on personal proyects.
   
 
-- 🌱 I’m learning Typescript and React Native 
+- 🌱 I’m learning Typescript. 
   
 
 - ❓ Ask me about anything related to JS, React and related technologies  
