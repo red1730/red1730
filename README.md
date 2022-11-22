@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on personal proyects.
   
 
-- 🌱 I’m learning Typescript. 
+- 🌱 I’m learning Typescript.
   
 
 - ❓ Ask me about anything related to JS, React and related technologies  
