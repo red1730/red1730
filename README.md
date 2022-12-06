@@ -12,7 +12,7 @@
 - 🌱 I’m learning Typescript.
   
 
-- ❓ Ask me about anything related to JS, React and related technologies  
+- ❓ Ask me about anything related to JS, React and related technologies.
   
 
 - 📝[I regularly write articles on Medium](https://medium.com/@red113/ra%C3%BAl-the-human-henry-the-bootcamp-22ba23322faf)  
