@@ -3,7 +3,7 @@
 </div>  
   
 
-## <div align="center">I'm Raúl, a Full-Stack Developer 🚀</div>  
+# <div align="center">I'm Raúl, a Full-Stack Developer 🚀</div>  
   
 
 - 🔭 I’m currently working on personal proyects.
