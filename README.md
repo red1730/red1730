@@ -3,7 +3,7 @@
 </div>  
   
 
-# <div align="center">I'm Raúl, a Frontend developer/UI Designer 🚀</div>  
+# <div align="center">I'm Raúl, a Frontend developer UX/UI Designer 🚀</div>  
   
 
   
